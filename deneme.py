@@ -10,6 +10,7 @@ driver = webdriver.Chrome(PATH)
 driver.get("https://google.com.tr")
 time.sleep(5)
 driver.maximize_window()
+print("basari ile çalistirildi")
 time.sleep(5)
     
    
