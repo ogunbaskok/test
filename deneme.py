@@ -10,7 +10,26 @@ driver = webdriver.Chrome(PATH)
 driver.get("https://google.com.tr")
 time.sleep(5)
 driver.maximize_window()
-print("basari ile çalistirildi")
+a = 5
+b = 7 
+
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+print("basari ile çalistirildi",a+b)
+
 time.sleep(5)
     
    
